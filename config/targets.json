@@ -1,0 +1,18 @@
+﻿{
+  "targets": [
+    {
+      "name": "global",
+      "source": "source/global/AGENTS.md",
+      "target": "${USERPROFILE}\\.codex\\AGENTS.md",
+      "encoding": "utf8",
+      "required": true
+    },
+    {
+      "name": "java",
+      "source": "source/java/AGENTS.md",
+      "target": "${JAVA_PROJECT_ROOT}\\AGENTS.md",
+      "encoding": "utf8",
+      "required": true
+    }
+  ]
+}
