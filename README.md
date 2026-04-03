@@ -131,30 +131,6 @@ agent-config/
 
 如果你想先理解为什么要分层、每层该放什么、何时应该修改哪一层，先看这份文档。
 
-## 建议的 GitHub 仓库配置
-
-为了更易于发现，建议在 GitHub 仓库页面补齐下面这些信息：
-
-### About 描述建议
-
-```text
-Cross-device Codex AGENTS.md config center for Windows and Java projects.
-```
-
-### Topics 建议
-
-```text
-codex, agent, agents-md, agent-config, powershell, windows, java, developer-tools, workflow, automation
-```
-
-### 社交预览图建议
-
-图中至少包含：
-
-- 仓库名：`Agent Config Center`
-- 一句话定位：`Manage global and Java AGENTS.md from one Git repo`
-- 三层关键词：`global / java / project`
-
 ## 适用边界
 
 当前版本默认：
